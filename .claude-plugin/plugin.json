@@ -1,0 +1,14 @@
+{
+  "name": "flint",
+  "description": "Build and manage websites with Flint's AI website builder through natural conversation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Flint",
+    "email": "support@tryflint.com",
+    "url": "https://tryflint.com"
+  },
+  "homepage": "https://tryflint.com",
+  "repository": "https://github.com/tryflint/claude-code-plugin",
+  "license": "MIT",
+  "keywords": ["website-builder", "ai", "web-design", "landing-pages", "flint"]
+}
