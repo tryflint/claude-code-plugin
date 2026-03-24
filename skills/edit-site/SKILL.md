@@ -1,6 +1,6 @@
 ---
 name: edit-site
-description: Edit a Flint website using a background AI agent. Use when the user wants to modify, update, redesign, or add content to a Flint site.
+description: Edit a Flint website using a background AI agent. Use when the user wants to modify, update, or add content to their Flint managed website.
 ---
 
 # Edit a Flint Site
