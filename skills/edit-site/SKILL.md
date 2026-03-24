@@ -17,9 +17,9 @@ Help the user modify a Flint website by running a background AI agent.
    - Do NOT generate HTML, CSS, or markup — Flint is an expert designer and produces better results with creative freedom
 
 3. **Monitor progress**: Call `check_background_agent_status` to track the agent.
-   - Wait 30-60 seconds between status checks
-   - A single agent typically finishes in 2-3 minutes
-   - Multiple concurrent agents take longer (10 agents may take ~10 minutes)
+   - Wait 90-120 seconds between status checks
+   - A single agent typically finishes in 4-5 minutes
+   - Multiple concurrent agents take longer (10 agents may take ~15 minutes)
 
 4. **Report results**: When complete, share the summary of changes and the preview URL.
 
