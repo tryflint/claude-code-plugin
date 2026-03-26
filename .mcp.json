@@ -2,10 +2,7 @@
   "mcpServers": {
     "flint": {
       "type": "http",
-      "url": "https://mcp.tryflint.com/mcp",
-      "oauth": {
-        "clientId": "Hsywp3Gtg4xH8DHE"
-      }
+      "url": "https://mcp.tryflint.com/mcp"
     }
   }
 }
