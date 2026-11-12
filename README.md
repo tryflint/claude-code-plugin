@@ -4,8 +4,7 @@ Build and manage websites with [Flint](https://tryflint.com)'s AI website builde
 
 ## Features
 
-- **Run background agents** to modify your Flint sites — add pages, update content, redesign sections
-- **Check agent progress** and get preview URLs when changes are ready
+- **Chat with the Flint agent** to modify your Flint sites — add pages, update content, redesign sections — and answer its questions in the same chat
 - **List your sites** across all connected organizations
 - **Publish sites** to production when you're ready to go live
 
